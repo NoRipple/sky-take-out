@@ -6,3 +6,10 @@ sky:
     database: sky_take_out
     username: root
     password: wu15882413006
+
+
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tAidJCUTHuqr2tE8qAD
+    access-key-secret: W6Dd6NJL88AiU0DRn47V86XrMgZDNA
+    bucket-name: wubo-heima-web
