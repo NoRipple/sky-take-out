@@ -13,3 +13,9 @@ sky:
     access-key-id: LTAI5tAidJCUTHuqr2tE8qAD
     access-key-secret: W6Dd6NJL88AiU0DRn47V86XrMgZDNA
     bucket-name: wubo-heima-web
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
